@@ -1,32 +1,45 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+# Hi~~ I'm JinFive 👋
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=jinfive)](https://github.com/jinfive)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
+## 🚀 About Me
+I am a positive developer who enjoys developing and learning 😄
 
+## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
-###### Hi there 👋
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jinfive&show_icons=true&theme=radical" alt="jinfive's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinfive&theme=dark" alt="jinfive's GitHub streak" />
+</div>
+
+## 🌟 major projects
+
+
+## 📫 contact
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krt8599@naver.com)
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jinfive&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 📈 Contribution Graph
+![](https://activity-graph.herokuapp.com/graph?username=jinfive&theme=redical)
+
 ---
-**두껍게**<br>
-*기울림*<br>
-~~취소선~~<br>
-* 1번
-* 2번
-- 2번
-[네이버]www.naver.com<br>
-```
-System.out.println();
-````
-
-## :smirk:
-## :joy:
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jinfive&label=Profile%20views&color=0e75b6&style=flat" alt="jinfive" />
+</div>
