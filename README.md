@@ -21,7 +21,7 @@ I am a positive developer who enjoys developing and learning 😄
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jinfive&show_icons=true&theme=radical" alt="jinfive's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinfive&theme=dark" alt="jinfive's GitHub streak" />
+  
 </div>
 
 ## 🌟 major projects
