@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-I am a positive developer who enjoys developing and learning 😄
+I am a positive, sincere and pleasant developer. 😄
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
